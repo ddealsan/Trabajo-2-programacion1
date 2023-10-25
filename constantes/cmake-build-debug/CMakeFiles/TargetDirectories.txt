@@ -1,0 +1,3 @@
+C:/Users/dalfo/CLionProjects/constantes/cmake-build-debug/CMakeFiles/constantes.dir
+C:/Users/dalfo/CLionProjects/constantes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dalfo/CLionProjects/constantes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
