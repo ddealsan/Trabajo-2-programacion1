@@ -1,3 +1,0 @@
-C:/Users/dalfo/CLionProjects/Instrucciones de bucle - Bucle for/cmake-build-debug/CMakeFiles/Instrucciones_de_bucle___Bucle_for.dir
-C:/Users/dalfo/CLionProjects/Instrucciones de bucle - Bucle for/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/dalfo/CLionProjects/Instrucciones de bucle - Bucle for/cmake-build-debug/CMakeFiles/rebuild_cache.dir
