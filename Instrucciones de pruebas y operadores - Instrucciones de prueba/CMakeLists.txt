@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.26)
-project(Instrucciones_de_pruebas_y_operadores___Instrucciones_de_prueba)
-
-set(CMAKE_CXX_STANDARD 17)
-
-add_executable(Instrucciones_de_pruebas_y_operadores___Instrucciones_de_prueba main.cpp)

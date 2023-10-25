@@ -1,3 +1,0 @@
-C:/Users/dalfo/CLionProjects/Instrucciones de pruebas y operadores - Instrucciones de prueba/cmake-build-debug/CMakeFiles/Instrucciones_de_pruebas_y_operadores___Instrucciones_de_prueba.dir
-C:/Users/dalfo/CLionProjects/Instrucciones de pruebas y operadores - Instrucciones de prueba/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/dalfo/CLionProjects/Instrucciones de pruebas y operadores - Instrucciones de prueba/cmake-build-debug/CMakeFiles/rebuild_cache.dir
